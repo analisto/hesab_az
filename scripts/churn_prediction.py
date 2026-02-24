@@ -1,7 +1,3 @@
-# Auto-generated from churn_prediction.ipynb
-
-
-# %% [cell 1]
 import kagglehub
 import pandas as pd
 import numpy as np
@@ -15,16 +11,19 @@ warnings.filterwarnings('ignore')
 sns.set_style('whitegrid')
 plt.rcParams['figure.figsize'] = (10, 6)
 
-# Create charts folder if it doesn't exist
-Path('charts').mkdir(exist_ok=True)
+BASE_DIR = Path(__file__).resolve().parent.parent
+CHARTS_DIR = BASE_DIR / 'charts'
+MODEL_DIR = BASE_DIR / 'model'
 
-# %% [cell 2]
+# Create output folders if they don't exist
+CHARTS_DIR.mkdir(exist_ok=True)
+MODEL_DIR.mkdir(exist_ok=True)
+
 # Download latest version
 path = kagglehub.dataset_download("muhammadshahidazeem/customer-churn-dataset")
 
 print("Path to dataset files:", path)
 
-# %% [cell 3]
 # Find the CSV file in the downloaded path
 import os
 csv_files = [f for f in os.listdir(path) if f.endswith('.csv')]
@@ -35,20 +34,17 @@ df = pd.read_csv(os.path.join(path, csv_files[0]))
 print(f"\nDataset shape: {df.shape}")
 df.head()
 
-# %% [cell 4]
 # Basic information
 print("Dataset Info:")
 print(df.info())
 print("\nBasic Statistics:")
 df.describe()
 
-# %% [cell 5]
 # Check for missing values
 print("Missing Values:")
 missing = df.isnull().sum()
 missing[missing > 0]
 
-# %% [cell 6]
 # Check churn distribution
 if 'Churn' in df.columns:
     churn_col = 'Churn'
@@ -63,18 +59,16 @@ print(f"Churn Distribution:")
 print(df[churn_col].value_counts())
 print(f"\nChurn Rate: {df[churn_col].value_counts(normalize=True).iloc[1]:.2%}")
 
-# %% [cell 7]
 # Churn distribution pie chart
 plt.figure(figsize=(8, 6))
 df[churn_col].value_counts().plot(kind='pie', autopct='%1.1f%%', startangle=90, colors=['#66b3ff', '#ff6666'])
 plt.title('Churn Distribution', fontsize=14, fontweight='bold')
 plt.ylabel('')
 plt.tight_layout()
-plt.savefig('charts/churn_distribution.png', dpi=300, bbox_inches='tight')
+plt.savefig(CHARTS_DIR / 'churn_distribution.png', dpi=300, bbox_inches='tight')
 plt.show()
-print("Saved: charts/churn_distribution.png")
+print(f"Saved: {CHARTS_DIR / 'churn_distribution.png'}")
 
-# %% [cell 8]
 # Correlation heatmap for numerical features
 numerical_cols = df.select_dtypes(include=[np.number]).columns
 plt.figure(figsize=(12, 10))
@@ -83,11 +77,10 @@ sns.heatmap(correlation, annot=True, fmt='.2f', cmap='coolwarm', center=0,
             square=True, linewidths=1, cbar_kws={"shrink": 0.8})
 plt.title('Feature Correlation Heatmap', fontsize=14, fontweight='bold')
 plt.tight_layout()
-plt.savefig('charts/correlation_heatmap.png', dpi=300, bbox_inches='tight')
+plt.savefig(CHARTS_DIR / 'correlation_heatmap.png', dpi=300, bbox_inches='tight')
 plt.show()
-print("Saved: charts/correlation_heatmap.png")
+print(f"Saved: {CHARTS_DIR / 'correlation_heatmap.png'}")
 
-# %% [cell 9]
 # Distribution of numerical features
 numerical_features = df[numerical_cols].columns.tolist()
 if churn_col in numerical_features:
@@ -104,11 +97,10 @@ for idx, col in enumerate(numerical_features[:n_features]):
     axes[idx].set_ylabel('Frequency')
 
 plt.tight_layout()
-plt.savefig('charts/feature_distributions.png', dpi=300, bbox_inches='tight')
+plt.savefig(CHARTS_DIR / 'feature_distributions.png', dpi=300, bbox_inches='tight')
 plt.show()
-print("Saved: charts/feature_distributions.png")
+print(f"Saved: {CHARTS_DIR / 'feature_distributions.png'}")
 
-# %% [cell 10]
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 
@@ -141,7 +133,6 @@ if df_processed[churn_col].dtype == 'object':
 print(f"Processed dataset shape: {df_processed.shape}")
 df_processed.head()
 
-# %% [cell 11]
 # Split features and target
 X = df_processed.drop(churn_col, axis=1)
 y = df_processed[churn_col]
@@ -157,7 +148,6 @@ X_test_scaled = scaler.transform(X_test)
 print(f"Training set size: {X_train.shape[0]}")
 print(f"Test set size: {X_test.shape[0]}")
 
-# %% [cell 12]
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
@@ -199,7 +189,6 @@ for name, model in models.items():
           f"F1: {results[name]['f1']:.4f}, "
           f"ROC AUC: {results[name]['roc_auc']:.4f}")
 
-# %% [cell 13]
 # Compare model performance
 metrics_df = pd.DataFrame({
     'Model': list(results.keys()),
@@ -233,11 +222,10 @@ ax.set_xticklabels(results.keys())
 ax.legend()
 ax.set_ylim([0, 1.1])
 plt.tight_layout()
-plt.savefig('charts/model_comparison.png', dpi=300, bbox_inches='tight')
+plt.savefig(CHARTS_DIR / 'model_comparison.png', dpi=300, bbox_inches='tight')
 plt.show()
-print("Saved: charts/model_comparison.png")
+print(f"Saved: {CHARTS_DIR / 'model_comparison.png'}")
 
-# %% [cell 14]
 # Plot ROC curves for all models
 plt.figure(figsize=(10, 8))
 
@@ -252,11 +240,10 @@ plt.title('ROC Curves Comparison', fontweight='bold', fontsize=14)
 plt.legend(loc='lower right')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
-plt.savefig('charts/roc_curves.png', dpi=300, bbox_inches='tight')
+plt.savefig(CHARTS_DIR / 'roc_curves.png', dpi=300, bbox_inches='tight')
 plt.show()
-print("Saved: charts/roc_curves.png")
+print(f"Saved: {CHARTS_DIR / 'roc_curves.png'}")
 
-# %% [cell 15]
 # Find best model
 best_model_name = max(results, key=lambda x: results[x]['f1'])
 best_model = results[best_model_name]['model']
@@ -275,16 +262,15 @@ plt.title(f'Confusion Matrix - {best_model_name}', fontweight='bold', fontsize=1
 plt.ylabel('Actual', fontweight='bold')
 plt.xlabel('Predicted', fontweight='bold')
 plt.tight_layout()
-plt.savefig('charts/confusion_matrix.png', dpi=300, bbox_inches='tight')
+plt.savefig(CHARTS_DIR / 'confusion_matrix.png', dpi=300, bbox_inches='tight')
 plt.show()
-print("Saved: charts/confusion_matrix.png")
+print(f"Saved: {CHARTS_DIR / 'confusion_matrix.png'}")
 
 # Classification report
 print(f"\nClassification Report - {best_model_name}:")
 print(classification_report(y_test, results[best_model_name]['y_pred'], 
                           target_names=['No Churn', 'Churn']))
 
-# %% [cell 16]
 # Feature importance for tree-based models
 if best_model_name in ['Random Forest', 'Gradient Boosting']:
     feature_importance = pd.DataFrame({
@@ -301,14 +287,13 @@ if best_model_name in ['Random Forest', 'Gradient Boosting']:
     plt.title(f'Top 15 Feature Importances - {best_model_name}', fontweight='bold', fontsize=14)
     plt.gca().invert_yaxis()
     plt.tight_layout()
-    plt.savefig('charts/feature_importance.png', dpi=300, bbox_inches='tight')
+    plt.savefig(CHARTS_DIR / 'feature_importance.png', dpi=300, bbox_inches='tight')
     plt.show()
-    print("Saved: charts/feature_importance.png")
+    print(f"Saved: {CHARTS_DIR / 'feature_importance.png'}")
     
     print("\nTop 10 Most Important Features:")
     print(feature_importance.head(10).to_string(index=False))
 
-# %% [cell 17]
 import pickle
 
 # Save the best model
@@ -319,12 +304,12 @@ model_data = {
     'model_name': best_model_name
 }
 
-with open('best_churn_model.pkl', 'wb') as f:
+model_path = MODEL_DIR / 'best_churn_model.pkl'
+with open(model_path, 'wb') as f:
     pickle.dump(model_data, f)
 
-print(f"Best model ({best_model_name}) saved to: best_churn_model.pkl")
+print(f"Best model ({best_model_name}) saved to: {model_path}")
 
-# %% [cell 18]
 print("="*60)
 print("CHURN PREDICTION MODEL SUMMARY")
 print("="*60)
@@ -339,6 +324,6 @@ print(f"  - Precision: {results[best_model_name]['precision']:.4f}")
 print(f"  - Recall:    {results[best_model_name]['recall']:.4f}")
 print(f"  - F1 Score:  {results[best_model_name]['f1']:.4f}")
 print(f"  - ROC AUC:   {results[best_model_name]['roc_auc']:.4f}")
-print(f"\nCharts saved in: charts/")
-print(f"Model saved as: best_churn_model.pkl")
+print(f"\nCharts saved in: {CHARTS_DIR}")
+print(f"Model saved as: {model_path}")
 print("="*60)

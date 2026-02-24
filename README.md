@@ -262,13 +262,13 @@ Kaggle API credentials (for dataset download)
    - Place `kaggle.json` in `~/.kaggle/`
    - Or configure kagglehub authentication
 
-4. **Run the notebook**
+4. **Run the script**
    ```bash
-   jupyter notebook churn_prediction.ipynb
+   python scripts/churn_prediction.py
    ```
 
-5. **Execute all cells**
-   - The notebook will automatically:
+5. **Script execution**
+   - The script will automatically:
      - Download the dataset
      - Perform EDA and generate visualizations
      - Train multiple models
