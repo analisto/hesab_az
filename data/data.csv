@@ -1,0 +1,342 @@
+id,displayName,itemName,logoPath,status,type,link,orderNo,nfc,_category_slug,_category_name
+,Bakcell,bakcell,https://hesab.az/static-content/logos/merchant_images/bakcellnewpng77.png,1,LARGE_MERCHANT,,1,False,mobile,Mobil
+,Nar,nar,https://hesab.az/static-content/logos/merchant_images/230x96narlogo.png,1,LARGE_MERCHANT,,2,False,mobile,Mobil
+,Azercell,azercell,https://hesab.az/static-content/logos/merchant_images/azercell1.png,1,LARGE_MERCHANT,,3,False,mobile,Mobil
+,ADSEA (Azərsu),azersu_direct,https://hesab.az/static-content/logos/merchant_images/azersunew.png.png,1,LARGE_MERCHANT,0,2147483647,False,utilities,Kommunal
+,Azəriqaz (Qeyri-əhali),azeriqaz_qe,https://hesab.az/static-content/logos/merchant_images/azeriqaz2.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Azəriqaz (Əhali),azeriqaz,https://hesab.az/static-content/logos/merchant_images/azeriqaz2.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Azəriqaz Smart,smartqaz,https://hesab.az/static-content/logos/merchant_images/azeriqaz2.png,1,LARGE_MERCHANT,~/BillPay/Merchants/AzeriqazSmart.aspx,2147483647,False,utilities,Kommunal
+,Azəristiliktəchizat,azeristilik,https://hesab.az/static-content/logos/merchant_images/azeristilik.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Azərişıq (Qeyri-əhali) ,azerishiq_q,https://hesab.az/static-content/logos/merchant_images/bes.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+53,Azərişıq (Əhali),azerisiq,https://hesab.az/static-content/logos/category_icons/bes.png,1,Subcategory,,2147483647,False,utilities,Kommunal
+,Bağça Şəhər,aralparking,https://hesab.az/static-content/logos/merchant_images/aralparking.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,BİNƏQƏDİ-29 MMMC,bineqedi_29,https://hesab.az/static-content/logos/merchant_images/bineqedimmmc.jpg,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Chinar Park,chinar_park,https://hesab.az/static-content/logos/merchant_images/cinarpark.png.jpeg,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Cyfral Bakı,cyfral_p,https://hesab.az/static-content/logos/merchant_images/cyfral_large.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Domofon Servis,shb_az,https://hesab.az/static-content/logos/merchant_images/domofon.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+29,Grand Hayat,grandhayat,https://hesab.az/static-content/logos/bank_images/Grand_Hayat.png,1,Subcategory,,2147483647,False,utilities,Kommunal
+,Greenville Residence,greenvile,https://hesab.az/static-content/logos/merchant_images/greenville.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+28,Güvənli-Servis Management,hayatmanagement,https://hesab.az/static-content/logos/merchant_images/guvenli.png,1,Subcategory,,2147483647,False,utilities,Kommunal
+,Harmony residence,Harmony_residence,https://hesab.az/static-content/logos/merchant_images/harmony_montajs.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,İDEAL YAŞAM,idealyasham_,https://hesab.az/static-content/logos/merchant_images/ideal_yasham_new.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,JSAO,jsao,https://hesab.az/static-content/logos/merchant_images/jsao.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,KAYBA Domofon,kayba,https://hesab.az/static-content/logos/merchant_images/kayba.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,KnightsBridge - Xidmət haqqı,kbr_utilities,https://hesab.az/static-content/logos/merchant_images/kbr.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Nizami City,nizami_city,https://hesab.az/static-content/logos/merchant_images/nizamycity.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,NƏRİMANOV 31,narimanov_31,https://hesab.az/static-content/logos/merchant_images/narimanov_31.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Nərimanov-10,narimanov10,https://hesab.az/static-content/logos/merchant_images/nerimanov10.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Nərimanov-14 MMMC,narimanov14,https://hesab.az/static-content/logos/merchant_images/nerimanov14.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,PG Services,pg_servicies_kristal,https://hesab.az/static-content/logos/merchant_images/pgservice.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Port Baku - Xidmət haqqı,pasha_con_utilities,https://hesab.az/static-content/logos/merchant_images/pasha_con.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,PR PREMİUM SERVİCES,pr_premium,https://hesab.az/static-content/logos/merchant_images/pr_premium.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Qayğı MTK,qaygi-newquick,https://quickpay.goldenpay.az/file/171/content,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,RAHAT YAŞAM,rahatyasham,https://hesab.az/static-content/logos/merchant_images/rahatyasham.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Speco Domofon,cyfral_l,https://hesab.az/static-content/logos/merchant_images/speco.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Sweet House MTK,sweethouse,https://hesab.az/static-content/logos/merchant_images/sweethouse.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Yasamal-34 MMMC,yasamal34,https://hesab.az/static-content/logos/merchant_images/yasamal34.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,Şamaxı Təmiz Şəhər,samaxi_temiz_seher,https://hesab.az/static-content/logos/merchant_images/samaxi_temiz_seher.png,1,LARGE_MERCHANT,,2147483647,False,utilities,Kommunal
+,28 Mall Parking,parking_28mall,https://hesab.az/static-content/logos/merchant_images/28-mall.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,ADY Sumqayıt,ady_sumqayit,https://hesab.az/static-content/logos/merchant_images/ady.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Amburan Mall Parking,amburan_parking,https://hesab.az/static-content/logos/merchant_images/amburan.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Azərbaycan Dəmir Yolları (Bakı),ady,https://hesab.az/static-content/logos/merchant_images/ady.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Bakı Konqres Mərkəzi,bakikonqresmerkezi,https://hesab.az/static-content/logos/merchant_images/bakikonqresmerkezi.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Bakikhanov mall,bakixanov_mall,https://hesab.az/static-content/logos/merchant_images/bakixanov_mall.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Baku City Residence,bcr,https://hesab.az/static-content/logos/merchant_images/bcr.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Bilgəh Kardioloji Sanatoriyası,bilgehkardiolojisanatoriyası,https://hesab.az/static-content/logos/merchant_images/bilgah.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Blue Mall,blue_mall,https://hesab.az/static-content/logos/merchant_images/blue_center.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Bravo 20 Yanvar,bravo_20yanv,https://hesab.az/static-content/logos/merchant_images/bravo_20yanv.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Bravo Babək,bravo_babek,https://hesab.az/static-content/logos/merchant_images/bravo_20yanv.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Bravo Bakıxanov,bravobakıxanov,https://hesab.az/static-content/logos/merchant_images/bravooazis.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Bravo Bayıl,bravo_bayıl,https://hesab.az/static-content/logos/merchant_images/bravo_20yanv.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Bravo Koroğlu,bravokoroglu,https://hesab.az/static-content/logos/merchant_images/bravooazis.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Bravo Oazis,bravooazis,https://hesab.az/static-content/logos/merchant_images/bravooazis.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Bravo Yeni Günəşli,bravoyenigunesli,https://hesab.az/static-content/logos/merchant_images/bravooazis.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Bravo Yeni Yasamal,bravoyeniyasamal,https://hesab.az/static-content/logos/merchant_images/bravoyeniyasamal.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Bravo Şüvəlan,bravo_shuvelan,https://hesab.az/static-content/logos/merchant_images/bravooazis.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Crescent Mall Parking,crescent_parking,https://hesab.az/static-content/logos/merchant_images/crescentmall.png.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Dalğa Plaza Parking,dalgamall_parking,https://hesab.az/static-content/logos/merchant_images/dalgamall_parking.png.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Dünyagöz,dunyagoz,https://hesab.az/static-content/logos/merchant_images/dunyagoz.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Dəniz Mall Parking,parking_denizmall,https://hesab.az/static-content/logos/merchant_images/denizmall.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,East Park,east_park,https://hesab.az/static-content/logos/merchant_images/east_park.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Fairmont Baku,fairmontbaku,https://hesab.az/static-content/logos/merchant_images/fairmont.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,"Garage Parking ""Nizami""",parking_garage,https://hesab.az/static-content/logos/merchant_images/garage.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,"Garage Parking ""Xaqani""",parking_garage_x,https://hesab.az/static-content/logos/merchant_images/garage.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Gənclik Mall Parking,parking_genclik,https://hesab.az/static-content/logos/merchant_images/ganjlik.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Gəncə Mall Parking,parking_gence,https://hesab.az/static-content/logos/merchant_images/gencemall.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Heydər Əliyev adına Beynəlxalq Hava Limanı,gyd,https://hesab.az/static-content/logos/merchant_images/gyd.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Hyatt Regency,hyattregency,https://hesab.az/static-content/logos/merchant_images/pbr.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Jalə Plaza,jmr_plaza,https://hesab.az/static-content/logos/merchant_images/jmr_plaza.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,JW Marriot Absheron,jwmarriotabsheron,https://hesab.az/static-content/logos/merchant_images/mab.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Liv Bona Dea Hospital,livbonadeahospital,https://hesab.az/static-content/logos/merchant_images/livbonadeahospital.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Makfit,makfit,https://hesab.az/static-content/logos/merchant_images/makfit.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Mərkəzi Klinika,merkezi_klinika,https://hesab.az/static-content/logos/merchant_images/merkezi_klinika.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Nakhcivan airport parking,nakhchivan-airport,https://hesab.az/static-content/logos/merchant_images/nakhchivan-airport.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Olimpik Fitness,olimpik_fitness,https://hesab.az/static-content/logos/merchant_images/olimpik_fitness.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Park Bulvar Mall,park_bulvar,https://hesab.az/static-content/logos/merchant_images/park_bulvar.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Port Baku Mall Parking,parking_portbaku,https://hesab.az/static-content/logos/merchant_images/portbaku.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Port Baku Restoranlar,portbakurestoranlar,https://hesab.az/static-content/logos/merchant_images/pbr.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Ritz Carlton,ritz_carlton,https://hesab.az/static-content/logos/merchant_images/ritz_carlton.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Sea Breeze,sea_breeze,https://hesab.az/static-content/logos/merchant_images/seabreeze.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,"STİ Parkinq (Şuşa, Yuxarı Gövhər)",st_parking,https://hesab.az/static-content/logos/merchant_images/st_travel.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,White City,whitecity,https://hesab.az/static-content/logos/merchant_images/pbr.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,Çinar Park,chinar_parking,https://hesab.az/static-content/logos/merchant_images/chinar_park.png,1,LARGE_MERCHANT,,2147483647,False,parking,Parkinq
+,AYNA,ayna_new,https://hesab.az/static-content/logos/merchant_images/aynanew.jpg,1,LARGE_MERCHANT,,2147483647,False,government,Dövlət ödənişləri
+,AZSTAND,azstand,https://hesab.az/static-content/logos/merchant_images/azstand.png,1,LARGE_MERCHANT,,2147483647,False,government,Dövlət ödənişləri
+,Bələdiyyələr,gppbelediyye,https://hesab.az/static-content/logos/merchant_images/belediye.png,1,LARGE_MERCHANT,,2147483647,False,government,Dövlət ödənişləri
+50,Mədəniyyət Nazirliyi,medeniyyet_nazirliyi,https://hesab.az/static-content/logos/merchant_images/medeniyyetnazirliyi.png,1,Subcategory,,2147483647,False,government,Dövlət ödənişləri
+,AzEuroTel,azeurotel_tel,https://hesab.az/static-content/logos/merchant_images/azeurot_logo.png,1,LARGE_MERCHANT,,2147483647,False,telephone,Telefon
+,Aztelekom,aztelekom_baktelecom,https://hesab.az/static-content/logos/merchant_images/azt_bkt.png,1,LARGE_MERCHANT,,2147483647,False,telephone,Telefon
+,TransEuroCom Telefon,transeurocom,https://hesab.az/static-content/logos/merchant_images/transeurocom.png,1,LARGE_MERCHANT,,2147483647,False,telephone,Telefon
+,Ultel,ultel,https://hesab.az/static-content/logos/merchant_images/ultel.png,1,LARGE_MERCHANT,,2147483647,False,telephone,Telefon
+,AiləmNet,ailemnet,https://hesab.az/static-content/logos/merchant_images/ailemnet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,AiləmNet Ekspress,ailemnet_eks,https://hesab.az/static-content/logos/merchant_images/ailemnet_ekspress.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,AiləNet,ailenet,https://hesab.az/static-content/logos/merchant_images/ailetvadsl.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Alfanet ADSL və GPON,alfanet,https://hesab.az/static-content/logos/merchant_images/alfanet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Alfanet Optik,alfanetoptik,https://hesab.az/static-content/logos/merchant_images/alfanet2.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,ArazNet,araznet,https://hesab.az/static-content/logos/merchant_images/araznet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Artkom,artkom_int,https://hesab.az/static-content/logos/merchant_images/artkom_az.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Azerlink,azerlink,https://hesab.az/static-content/logos/merchant_images/azerlink.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Azeronline,azeronline,https://hesab.az/static-content/logos/merchant_images/azeronline.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,AzEuroNet,azeuronet,https://hesab.az/static-content/logos/merchant_images/azeuronet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,AzEuroTel Internet,azevrotel,https://hesab.az/static-content/logos/merchant_images/azeurot_logo.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,AzFiberNet,azfibernet2,https://hesab.az/static-content/logos/merchant_images/azfiber_new.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Aziko,aziko,https://hesab.az/static-content/logos/merchant_images/aziko.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Azintex,azintex,https://hesab.az/static-content/logos/merchant_images/azintex.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Azline,azline,https://hesab.az/static-content/logos/merchant_images/azline.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Azlink,Azlink,https://hesab.az/static-content/logos/merchant_images/azlink.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,AzNet,aznet3,https://hesab.az/static-content/logos/merchant_images/aznet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Aztelekom,aztelekom_baktelecom_int,https://hesab.az/static-content/logos/merchant_images/azt_bkt.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,AzTürk,azturk,https://hesab.az/static-content/logos/merchant_images/azturk.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Birlink,birlink3,https://hesab.az/static-content/logos/merchant_images/enginet_2.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Birnet,birnet,https://hesab.az/static-content/logos/merchant_images/birnet2.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Bline Internet,bline,https://hesab.az/static-content/logos/merchant_images/bline.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Blue TV,bluetv_internet,https://hesab.az/static-content/logos/merchant_images/blu-tv.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Boss Group,bossGroup,https://hesab.az/static-content/logos/merchant_images/boss.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Bulud Telecom,bulud_telecom,https://hesab.az/static-content/logos/merchant_images/buludtelecom.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Buta Telecom,buta-telecom,https://hesab.az/static-content/logos/merchant_images/buta_telecom.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Bynet,bynet,https://hesab.az/static-content/logos/merchant_images/bynet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Cityline,cityline,https://hesab.az/static-content/logos/merchant_images/Cityline.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,CityNet,citynet,https://hesab.az/static-content/logos/merchant_images/citynet_logo_1.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Classnet,classnet,https://hesab.az/static-content/logos/merchant_images/classnet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,ClipNET,clipnet,https://hesab.az/static-content/logos/merchant_images/clipNET.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Connect ADSL,connectadsl,https://hesab.az/static-content/logos/merchant_images/connectnew1.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Connect Fiber Optik,connectfiber,https://hesab.az/static-content/logos/merchant_images/connectnew1.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,DigiNet,diginet,https://hesab.az/static-content/logos/merchant_images/diginet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Du Telecom,dutelecom,https://hesab.az/static-content/logos/merchant_images/du.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Elfiber,upelfiber,https://hesab.az/static-content/logos/merchant_images/elffiber.jpeg,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,EUROSEL,eurosel,https://hesab.az/static-content/logos/merchant_images/eurosel.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Extranet,extranet,https://hesab.az/static-content/logos/merchant_images/extranet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,FastNet,fastnet,https://hesab.az/static-content/logos/merchant_images/fastnet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,FiberHome ,fiberhome,https://hesab.az/static-content/logos/merchant_images/fiberhome.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Fibernet,fibernet,https://hesab.az/static-content/logos/merchant_images/fibernet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Fiberonline,fiberonline,https://hesab.az/static-content/logos/merchant_images/fiber2.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,FiberZone,fiberzone,https://hesab.az/static-content/logos/merchant_images/fiberzone.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,FlashNet,flashnet,https://hesab.az/static-content/logos/merchant_images/flashnet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,FlexNet,flexnet,https://hesab.az/static-content/logos/merchant_images/flexnet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,FullNet,fullnet,https://hesab.az/static-content/logos/merchant_images/fullnet2.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,GalaxyNet,galaxynet,https://hesab.az/static-content/logos/merchant_images/galaxynet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Gamma SkyNet,gammaskynet,https://hesab.az/static-content/logos/merchant_images/gamma-skyne2.jpg,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,"GammaNet
+
+",gammanet,https://hesab.az/static-content/logos/merchant_images/gammanet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Go Telecom,gotelecom,https://hesab.az/static-content/logos/merchant_images/gotelecom.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,GoLine,goline,https://hesab.az/static-content/logos/merchant_images/goline.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,GoNet,gonet,https://hesab.az/static-content/logos/merchant_images/gonet2.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Goodnet,goodnet,https://hesab.az/static-content/logos/merchant_images/goodnet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Homenet,homenet,https://hesab.az/static-content/logos/merchant_images/homenet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Ideal TV/Net,idealnet,https://hesab.az/static-content/logos/merchant_images/idealnet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Kapital Telecom,kapitaltelecom,https://hesab.az/static-content/logos/merchant_images/kapitaltelecom1.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,KATV1 Internet,katvinternet,https://hesab.az/static-content/logos/merchant_images/katvinternet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Kontakt Telecom,kontakttelecokom,https://hesab.az/static-content/logos/merchant_images/kontakttelekom.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Lentel,lentel,https://hesab.az/static-content/logos/merchant_images/lentel.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,LeoNet,leonet,https://hesab.az/static-content/logos/merchant_images/leonet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Macronet,macronet,https://hesab.az/static-content/logos/merchant_images/macronet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Maxinet,maxinet-direct,https://hesab.az/static-content/logos/merchant_images/maxinet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,MegaLink,megalink,https://hesab.az/static-content/logos/merchant_images/mega_link.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Metronet,metronet,https://hesab.az/static-content/logos/merchant_images/metronet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,NarHome Uninet,uninet,https://hesab.az/static-content/logos/merchant_images/narnet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Nest Fiber,nestfiber,https://hesab.az/static-content/logos/merchant_images/nestfiber.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,NetPoint,netpoint,https://hesab.az/static-content/logos/merchant_images/netpoint.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Omniya,omniya,https://hesab.az/static-content/logos/merchant_images/omniya.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Optic internet,azopticnet,https://hesab.az/static-content/logos/merchant_images/optic2.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Portflix,portflix,https://hesab.az/static-content/logos/merchant_images/portflix.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Q-Company,q_company,https://hesab.az/static-content/logos/merchant_images/qcompany2.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,QuickNet,quicknet,https://hesab.az/static-content/logos/merchant_images/quicknet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Rahat Telecom,rahattelecom,https://hesab.az/static-content/logos/merchant_images/Rahat-new.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Real Telecom,realtelecom,https://hesab.az/static-content/logos/merchant_images/realtelecom.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Redline İnternet,redline,https://hesab.az/static-content/logos/merchant_images/redline.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Sazz,sazzfiber,https://i.postimg.cc/Hxt0wpHH/IMG-20251117-WA0002.webp,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,SelNet,selnet,https://hesab.az/static-content/logos/merchant_images/selnet_logo.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Setnet,Setnet,https://hesab.az/static-content/logos/merchant_images/setnet_logo.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,SevenLine,sevenline,https://hesab.az/static-content/logos/merchant_images/logo_sevenline.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Sevinc Telekom,sevinc_telekom,https://hesab.az/static-content/logos/merchant_images/sevinc_telekom.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Shakh Internet,shakh_int,https://hesab.az/static-content/logos/merchant_images/ShakhTV_png.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,SkyLink,skylink,https://hesab.az/static-content/logos/merchant_images/skylinkmhm.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Smart Online,smartonline,https://hesab.az/static-content/logos/merchant_images/smartonline.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,SN Telekom,sntelekom,https://hesab.az/static-content/logos/merchant_images/sntv_.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Soft Telecom,softtelecom,https://hesab.az/static-content/logos/merchant_images/softtelecom.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Sparktel,sparktel,https://hesab.az/static-content/logos/merchant_images/sparktel.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Sprint Telekom,sprint_telekom,https://hesab.az/static-content/logos/merchant_images/sprint_telekom.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Start Telecom,start_telecom,https://hesab.az/static-content/logos/merchant_images/starttelecom.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,SuperOptik,superoptik,https://hesab.az/static-content/logos/merchant_images/superoptic2.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Tele1,tele1,https://hesab.az/static-content/logos/merchant_images/tele1.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Tele5,tele5,https://hesab.az/static-content/logos/merchant_images/tele5.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,TelecomInvest,telecominvest,https://hesab.az/static-content/logos/merchant_images/telecominvest.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Teleport,teleport,https://hesab.az/static-content/logos/merchant_images/teleport.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,TransEuroCom Internet,transeuronet,https://hesab.az/static-content/logos/merchant_images/transeuronet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,TTNET,ttnet,https://hesab.az/static-content/logos/merchant_images/ttnet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Turbo.net,turbo_net,https://hesab.az/static-content/logos/merchant_images/turbonet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,TVCITY,tvcity,https://hesab.az/static-content/logos/merchant_images/tvcity.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Türk Telecom,turktelecom,https://hesab.az/static-content/logos/merchant_images/turk-telekom.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Türkcell,turkcell,https://hesab.az/static-content/logos/merchant_images/turkcell.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Ultel İnternet,ulteladsl,https://hesab.az/static-content/logos/merchant_images/ulteladsl.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,UltraNet,ultranet,https://hesab.az/static-content/logos/merchant_images/ultranetlogo.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Umidnet,umid_net,https://hesab.az/static-content/logos/merchant_images/umidnet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Uninet/SuperOnline,superonline,https://hesab.az/static-content/logos/merchant_images/uninet_sol.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,UpLink,uplink,https://hesab.az/static-content/logos/merchant_images/uplink2.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Voltnet,voltnet,https://hesab.az/static-content/logos/merchant_images/voltnet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Worldtech,Worldtech,https://hesab.az/static-content/logos/merchant_images/worldtech.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,X-Link,x-link,https://hesab.az/static-content/logos/merchant_images/xlink.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Xannet,xannet,https://hesab.az/static-content/logos/merchant_images/xannet.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Zamanline,zamanline,https://hesab.az/static-content/logos/merchant_images/zamanline2.png,1,LARGE_MERCHANT,,2147483647,False,internet,İnternet
+,Ailə TV,ailetv,https://hesab.az/static-content/logos/merchant_images/ailetv.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Alfanet TV,alfanettv,https://hesab.az/static-content/logos/merchant_images/ALFANET_TV.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Artkom,artkom_tv,https://hesab.az/static-content/logos/merchant_images/artkom_az.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,ATV+,atvplus,https://hesab.az/static-content/logos/merchant_images/atvplus.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Aztelekom TV,aztelekom_baktelecom_tv ,https://hesab.az/static-content/logos/merchant_images/azt_bkt.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,B&B TV,bbtv,https://hesab.az/static-content/logos/merchant_images/bbtv.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Blue TV,bluetv,https://hesab.az/static-content/logos/merchant_images/blu-tv.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Buludstore,buludstore,https://hesab.az/static-content/logos/merchant_images/buludstore.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Cityline TV,citylinetv,https://hesab.az/static-content/logos/merchant_images/Cityline.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Clip TV,cliptv,https://hesab.az/static-content/logos/merchant_images/cliptv150.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Connect TV,connecttv,https://hesab.az/static-content/logos/merchant_images/connectnew1.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,DigiNet,diginet,https://hesab.az/static-content/logos/merchant_images/diginet.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Ideal TV/Net,idealtv,https://hesab.az/static-content/logos/merchant_images/idealnet.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,KATV1,katv,https://hesab.az/static-content/logos/merchant_images/katv.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,NNTV,nntv,https://hesab.az/static-content/logos/merchant_images/NNTV.PNG,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,ODTV,odtv,https://hesab.az/static-content/logos/merchant_images/odtv.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Rahat Telecom,rahattelecomtv,https://hesab.az/static-content/logos/merchant_images/Rahat-new.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Shakh TV,shakhtv,https://hesab.az/static-content/logos/merchant_images/ShakhTV_png.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,SN TV,sntv,https://hesab.az/static-content/logos/merchant_images/sntv_.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,TVCITY,tvcity,https://hesab.az/static-content/logos/merchant_images/tvcity.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Ultel TV,ulteltv,https://hesab.az/static-content/logos/merchant_images/ulteliptv.png,1,LARGE_MERCHANT,,2147483647,False,tv,Kabel TV
+,Atəşgah Həyat Sığorta,ateshgah_life,https://hesab.az/static-content/logos/merchant_images/atesgah_life.png,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+,Atəşgah Sığorta,ateshgah_sigorta,https://hesab.az/static-content/logos/merchant_images/atesgah-sigorta.png,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+,Azərbaycan Sənaye Sığorta ASC,senayesigortaLM,https://hesab.az/static-content/logos/bank_images/assigorta.png,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+,Caspian International Broking,CİBSıgorta,https://hesab.az/static-content/logos/merchant_images/CIBLogo.png,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+,İcbari Sığorta Bürosu,gppinsurance,https://hesab.az/static-content/logos/merchant_images/isb.png,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+,İPƏK YOLU SIĞORTA,ipekyolusigorta,https://hesab.az/static-content/logos/merchant_images/ipekyolusigorta.png,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+,Meqa Həyat Sığorta,megahayat,https://quickpay.goldenpay.az/file/168/content,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+,Meqa Sığorta ASC,megasigorta,https://hesab.az/static-content/logos/merchant_images/mega__sigorta.png,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+,PAŞA Həyat,pashalife,https://hesab.az/static-content/logos/merchant_images/lifeaz.png,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+,Paşa Sığorta,pashasigorta,https://hesab.az/static-content/logos/merchant_images/pashasigorta.png,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+,Qala Həyat Sığorta,qalaheyatsigortanew,https://hesab.az/static-content/logos/merchant_images/qalaheyat1.png,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+36,Qala Sığorta,qala_ins,https://hesab.az/static-content/logos/merchant_images/qalasigorta.png,1,Subcategory,,2147483647,False,insurance,Sığorta
+,Xalq Sığorta,xalqsigorta3,https://hesab.az/static-content/logos/bank_images/xalqsigorta.gif,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+,“AtaSığorta” ASC,atasigorta,https://hesab.az/static-content/logos/bank_images/atasigorta.jpg,1,LARGE_MERCHANT,,2147483647,False,insurance,Sığorta
+,Naxinternet,naxinternet,https://hesab.az/static-content/logos/merchant_images/naxinternet.png,1,LARGE_MERCHANT,,2147483647,False,nakhchivan,Naxçıvan
+,NaxTelekom,naxcivantelecom,https://hesab.az/static-content/logos/merchant_images/naxtelekom_logo.png,1,LARGE_MERCHANT,,2147483647,False,nakhchivan,Naxçıvan
+,Naxçıvan MR Qaz İstismar Xidməti,naxcivanqaz,https://hesab.az/static-content/logos/merchant_images/naxchivan_qaz.png,1,LARGE_MERCHANT,,2147483647,False,nakhchivan,Naxçıvan
+,Naxçıvan Telekom,naxtelecom,https://hesab.az/static-content/logos/merchant_images/naxtelecom.png,1,LARGE_MERCHANT,,2147483647,False,nakhchivan,Naxçıvan
+,AccessBank-Kredit ödənişləri ,accessbank,https://hesab.az/static-content/logos/bank_images/accessbank.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Anexs Lombard,anexslombard_mmc,https://hesab.az/static-content/logos/merchant_images/anexs.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+52,ASB,ASB,https://hesab.az/static-content/logos/category_icons/asb.png,1,Subcategory,,2147483647,False,loans,Bank və kredit təşkilatları
+,Avtotrade Lizing,avtotrade,https://hesab.az/static-content/logos/merchant_images/avtotrade.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+55,Bank Avrasiya,bank_avrasiya,https://hesab.az/static-content/logos/category_icons/bank_avrasya_category.png,1,Subcategory,,2147483647,False,loans,Bank və kredit təşkilatları
+56,Bank of Baku,bankofbaku,https://hesab.az/static-content/logos/bank_images/bankofbaku.png,1,Subcategory,,2147483647,False,loans,Bank və kredit təşkilatları
+,Bank Respublika,bankrespublika,https://hesab.az/static-content/logos/bank_images/bankrespublika.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Caspian Finance,caspian_finance,https://hesab.az/static-content/logos/merchant_images/caspian_finance.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Effektinvest,effektinvest,https://hesab.az/static-content/logos/merchant_images/effektinvest.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,EmbaFinans,embafinans,https://hesab.az/static-content/logos/bank_images/embafinans.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Ferrum Capital,ferrum,https://hesab.az/static-content/logos/bank_images/ferrum.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,HomeFinance,homefinance,https://hesab.az/static-content/logos/merchant_images/homefinance.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,İdeal Kredit,idealcredit,https://hesab.az/static-content/logos/bank_images/ideal_credit.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Kapital Bank/Birbank,kapitalbank,https://hesab.az/static-content/logos/bank_images/birbank.png.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,KnightsBridge - Kredit ödənişləri,kbr_credit,https://hesab.az/static-content/logos/merchant_images/kbr.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Kredex,kredex_,https://hesab.az/static-content/logos/bank_images/kredex.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Leobank - Kredit ödənişi,leo_credit,https://hesab.az/static-content/logos/merchant_images/leo.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Manato,Manato,https://hesab.az/static-content/logos/merchant_images/manato.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,MJ Finance,mjfinance,https://hesab.az/static-content/logos/merchant_images/mjfinance_l.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Monetri,monetri,https://hesab.az/static-content/logos/merchant_images/monetri.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Nas Project Bokt,nas_project_bokt,https://hesab.az/static-content/logos/merchant_images/nas.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Nova Credit,novacredit,https://hesab.az/static-content/logos/merchant_images/novabokt.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+58,PAŞA Bank,PAŞA Bank,https://hesab.az/static-content/logos/merchant_images/pashabank_card.png,1,Subcategory,,2147483647,False,loans,Bank və kredit təşkilatları
+,Port Baku - Kredit ödənişləri,pasha_con_credit,https://hesab.az/static-content/logos/merchant_images/pasha_con.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Premium Bank (Silkway),premiumbank,https://hesab.az/static-content/logos/merchant_images/premiumbank.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Pulum.az,pulum,https://hesab.az/static-content/logos/bank_images/pulum.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+,Qafqaz Bokt,qafqazbokt,https://hesab.az/static-content/logos/merchant_images/qafqaz12.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+41,Rabitəbank,rabitebank,https://hesab.az/static-content/logos/bank_images/rabitabank_logo.png,1,Subcategory,,2147483647,False,loans,Bank və kredit təşkilatları
+,TBC KREDIT,tbckredit,https://hesab.az/static-content/logos/bank_images/tbcc.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+33,TuranBank,turanbank,https://hesab.az/static-content/logos/bank_images/turanbank.png,1,Subcategory,,2147483647,False,loans,Bank və kredit təşkilatları
+,Viator,viator,https://hesab.az/static-content/logos/merchant_images/viator.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+54,Xalq Bank,xalq_bank,https://hesab.az/static-content/logos/bank_images/xalqbank.png,1,Subcategory,,2147483647,False,loans,Bank və kredit təşkilatları
+,Yapı Kredi Bank Azərbaycan,yapikredi,https://hesab.az/static-content/logos/bank_images/yapikredi.png,1,LARGE_MERCHANT,,2147483647,False,loans,Bank və kredit təşkilatları
+12,Yelo Bank,yelobank,https://hesab.az/static-content/logos/bank_images/yelobank.png,1,Subcategory,,2147483647,False,loans,Bank və kredit təşkilatları
+,Abu Life,abulife,https://hesab.az/static-content/logos/merchant_images/abulife.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,Baku Electronics,baku_electronics,https://hesab.az/static-content/logos/bank_images/baku_electronics.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,Foriella kredit,foriella,https://hesab.az/static-content/logos/merchant_images/foriella.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,Güvən Mebel,guvenmebel,https://hesab.az/static-content/logos/merchant_images/guvenmebel1.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,İrşad,irshad,https://hesab.az/static-content/logos/bank_images/irsadlogo.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,Karma Baby,karmamebel,https://hesab.az/static-content/logos/merchant_images/karmamebel.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,Kontakt Home,kontakthome,https://hesab.az/static-content/logos/merchant_images/kontakthome.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,Kral İnşaat,kralinshaatveservis,https://hesab.az/static-content/logos/merchant_images/kralinshaatveservis.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,Minor Store,minorstore,https://hesab.az/static-content/logos/merchant_images/minorelectronics.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,My Cars,myshop_car,https://hesab.az/static-content/logos/merchant_images/mycars.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,MyShops,myshop,https://hesab.az/static-content/logos/merchant_images/myshops.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,Optimal Elektronika MMC,optimal_electronics,https://hesab.az/static-content/logos/bank_images/Optimal.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,Soliton Mağazalar Şəbəkəsi,Soliton,https://hesab.az/static-content/logos/merchant_images/soliton_new_logo.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,StarGSM,stargsm,https://hesab.az/static-content/logos/merchant_images/starGSM.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,Uğur Telekom,ugurtelekom,https://hesab.az/static-content/logos/merchant_images/ugurtelecom.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,Yevlax Electrionics,yevlaxelektronics,https://hesab.az/static-content/logos/merchant_images/yevlaxelectron.png,1,LARGE_MERCHANT,,2147483647,False,store,Mağaza kreditləri
+,InvestAz,investaz,https://hesab.az/static-content/logos/bank_images/investaz.png,1,LARGE_MERCHANT,,2147483647,False,investment,İnvestisiya xidmətləri
+,189 TAXI,taxi189,https://hesab.az/static-content/logos/merchant_images/189_logo.png,1,LARGE_MERCHANT,,2147483647,False,transportation,Nəqliyyat
+,Ekonom taksi,taxieconom,https://hesab.az/static-content/logos/merchant_images/taksi9111.png,1,LARGE_MERCHANT,,2147483647,False,transportation,Nəqliyyat
+,Azerbaijan British College,abc_edu,https://hesab.az/static-content/logos/bank_images/abc_edu4.png,1,LARGE_MERCHANT,,2147483647,False,education,Təhsil
+,British Centre,britishcentre,https://quickpay.goldenpay.az/file/104/content,1,LARGE_MERCHANT,,2147483647,False,education,Təhsil
+,Dövlət İmtahan Mərkəzi,dim,https://hesab.az/static-content/logos/merchant_images/Logo_dim.png,1,LARGE_MERCHANT,,2147483647,False,education,Təhsil
+,EAS,eas,https://quickpay.goldenpay.az/file/69/content,1,LARGE_MERCHANT,,2147483647,False,education,Təhsil
+,EduTech,edutech,https://hesab.az/static-content/logos/merchant_images/edu_tech.png,1,LARGE_MERCHANT,,2147483647,False,education,Təhsil
+,Jed School,jed_school,https://hesab.az/static-content/logos/merchant_images/jetacademy.png,1,LARGE_MERCHANT,,2147483647,False,education,Təhsil
+,Landau School,landauschool,https://hesab.az/static-content/logos/merchant_images/landau.png,1,LARGE_MERCHANT,,2147483647,False,education,Təhsil
+,SABIS® SUN (G1-G12) Məktəbi / School,sabis_school,https://hesab.az/static-content/logos/merchant_images/G1_G12.png,1,LARGE_MERCHANT,,2147483647,False,education,Təhsil
+,SABIS® SUN (KG1 - KG2) Uşaq Bağçası / Kindergarten,sabis_garden,https://hesab.az/static-content/logos/merchant_images/KG1_KG2.png,1,LARGE_MERCHANT,,2147483647,False,education,Təhsil
+,Simurq Liseyi,simurgschool,https://hesab.az/static-content/logos/merchant_images/simurq.png,1,LARGE_MERCHANT,,2147483647,False,education,Təhsil
+,SM Training Co,smtrainingco,https://hesab.az/static-content/logos/merchant_images/smtrainingco.png,1,LARGE_MERCHANT,,2147483647,False,education,Təhsil
+,"""Qarabağ Dirçəliş Fondu""",qdf,https://hesab.az/static-content/logos/merchant_images/qdf.png,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+,"""Vətən Müharibəsi Əlillərinə Kömək"" Fondu",vmekib,https://quickpay.goldenpay.az/file/157/content,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+31,"""YAŞAT"" Fondu",yashat,https://hesab.az/static-content/logos/category_icons/yasat_new_logo.png,1,Subcategory,,2147483647,False,charity,Xeyriyyəçilik
+38,Azərbaycan Qızıl Aypara Cəmiyyəti,qizilaypara,https://hesab.az/static-content/logos/merchant_images/yardimet.png,1,Subcategory,,2147483647,False,charity,Xeyriyyəçilik
+,Azərbaycan Respublikası “Əlil Qadınlar” cəmiyyəti,dwwsa,https://quickpay.goldenpay.az/file/75/content,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+,CIĞIR İB,cigirbirlik,https://quickpay.goldenpay.az/file/48/content,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+40,FOR AZERBAIJAN,foraze,https://hesab.az/static-content/logos/merchant_images/for_azerbaijan.png,1,Subcategory,,2147483647,False,charity,Xeyriyyəçilik
+,İnsan alveri qurbanlarına kömək Fondu,insanalveri-newquick,https://quickpay.goldenpay.az/file/79/content,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+,Leykemiya ilə mübarizə,leykoz-newquick,https://hesab.az/static-content/logos/merchant_images/leykoz.png,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+,Nazlı Ana Fondu,nazlianafondu,https://hesab.az/static-content/logos/merchant_images/nazli_ana_new.png,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+,SOS uşaq kəndləri,sos,https://hesab.az/static-content/logos/merchant_images/sos.jpg,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+,UAFA,uafa,https://hesab.az/static-content/logos/merchant_images/uafaa.png,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+,Uşaq Fondu,usaqfondu,https://hesab.az/static-content/logos/merchant_images/usaqfondu1.jpeg,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+,Xilas.az,xilas-newquick,https://quickpay.goldenpay.az/file/63/content,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+,Ümid Yeri uşaq sığınacağı,umudyeri-newquick,https://hesab.az/static-content/logos/merchant_images/umudyeri.jpg,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+,Şəhid Övladları və Kimsəsiz Uşaqlara Yardım,sokuy_az,https://quickpay.goldenpay.az/file/156/content,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+,Əlil Körpələrə Yardım,ekyib-newquick,https://hesab.az/static-content/logos/merchant_images/ekyib.jpg,1,LARGE_MERCHANT,,2147483647,False,charity,Xeyriyyəçilik
+,App Store TR,app_store_tr,https://hesab.az/static-content/logos/merchant_images/app_store_US.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,Cosmo Chest,cosmochest,https://hesab.az/static-content/logos/merchant_images/cosmochest.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,Epin,epin,https://hesab.az/static-content/logos/merchant_images/epinlogo.png.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,Free Fire,free_fire,https://hesab.az/static-content/logos/merchant_images/free_fire.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,Google Play TR,google_play_tr,https://hesab.az/static-content/logos/merchant_images/google_play_US.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,Netflix,netflix,https://hesab.az/static-content/logos/merchant_images/netflix.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,Point Blank,point_blank,https://hesab.az/static-content/logos/merchant_images/point_blank.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,PUBG,pubg,https://hesab.az/static-content/logos/merchant_images/pubg.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,Razer Gold TL,razer_gold_TL,https://hesab.az/static-content/logos/merchant_images/razer_gold_USD.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,Razer Gold USD,razer_gold_USD,https://hesab.az/static-content/logos/merchant_images/razer_gold_USD.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,Roblox,roblox,https://hesab.az/static-content/logos/merchant_images/roblox.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,Topaz Fan Club,topaz_new,https://hesab.az/static-content/logos/merchant_images/topazfanclub_new.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,VALORANT,valorant,https://hesab.az/static-content/logos/merchant_images/valorant.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,Zula,zula,https://hesab.az/static-content/logos/merchant_images/zula.png,1,LARGE_MERCHANT,,2147483647,False,entertainment,Əyləncə
+,Caspos,caspos,https://hesab.az/static-content/logos/merchant_images/caspos2.png,1,LARGE_MERCHANT,,2147483647,False,other,Digər
+,Gilavar Foto Klubu,gilavarfotoklubu,https://hesab.az/static-content/logos/merchant_images/gilavarfotoklub.png,1,LARGE_MERCHANT,,2147483647,False,other,Digər
+,NBA Technologies İnternational,nba2,https://hesab.az/static-content/logos/merchant_images/nba.png,1,LARGE_MERCHANT,,2147483647,False,other,Digər
+,OneClick,oneclick,https://hesab.az/static-content/logos/merchant_images/oneclick.png,1,LARGE_MERCHANT,,2147483647,False,other,Digər
+30,Oriflame,oriflame,https://hesab.az/static-content/logos/merchant_images/oriflame.png,1,Subcategory,,2147483647,False,other,Digər
+,Yupiter Electronics,yupiter_electronics,https://hesab.az/static-content/logos/merchant_images/yupiter.png,1,LARGE_MERCHANT,,2147483647,False,other,Digər
+,Şəms Tərcümə,shemstercume,https://hesab.az/static-content/logos/merchant_images/shemstercume.png.png,1,LARGE_MERCHANT,,2147483647,False,other,Digər

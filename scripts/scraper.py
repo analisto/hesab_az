@@ -1,7 +1,11 @@
 import requests
 import csv
 import os
+import sys
 import time
+
+sys.stdout.reconfigure(encoding="utf-8")
+sys.stderr.reconfigure(encoding="utf-8")
 
 BASE_URL = "https://hesab.az/api/pg/unregistered"
 BEARER_TOKEN = "59560cf4-f984-46ff-93ae-a786b368beaa"
@@ -119,8 +123,8 @@ def main():
     all_rows: list[dict] = []
 
     for cat in categories:
-        slug = cat.get("slug") or cat.get("code") or cat.get("id")
-        name = cat.get("name") or cat.get("title") or slug
+        slug = cat.get("name") or cat.get("slug") or cat.get("code") or str(cat.get("id"))
+        name = cat.get("displayName") or cat.get("title") or slug
         print(f"[{name}] fetching items (slug={slug})...")
 
         items = get_category_items(session, slug)
